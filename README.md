@@ -1,4 +1,4 @@
-# Inazuma Eleven Victory Road : French Hissatsu Mod v.0.1
+# Inazuma Eleven Victory Road : French Hissatsu Mod v.1.0.0
 
 ## Warning : This mod only works with the french version of the game. 
 
