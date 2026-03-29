@@ -26,9 +26,20 @@ The following hissatsu have been implemented and are available in the latest ver
 |Instant Céleste|Heaven's Time|✅|
 |Météore Géant|Ryusei Blade|✅|
 |Feu Glacé|Cross Fire|✅|
+|Galatine|Galatyn|✅|
 |Tir de la Génèse|The Birth|⌛|
 |Frappe Stellaire|Tenkuu Otoshi|✅|
 |Big Bang|Big Bang|✅|
+|Bouclier du géant|Guardian Shield|✅|
 |Tacle Fantôme|Wonder Trap|✅|
 |Ours entravé|Kumagoroshi Baku|⌛|
 |Ours enragé|Kumagoroshi Zan|✅|
+|Eclipse Lunaire|Ouke No Tate|✅|
+
+## List of awakenings available:
+
+The following awakenings have been implemented and are available in the latest version of the mod :
+
+|FR Name|JP Name|Status|
+|:--------|:--------|:--------:|
+|Goliath, le géant|Kikai Hei Gareusu|✅|
