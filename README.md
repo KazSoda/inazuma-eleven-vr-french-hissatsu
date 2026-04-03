@@ -1,4 +1,4 @@
-# Inazuma Eleven Victory Road : French Hissatsu Mod v.1.0.0
+# Inazuma Eleven Victory Road : French Hissatsu Mod v.1.0.2
 
 ## Warning : This mod only works with the french version of the game. 
 
@@ -6,11 +6,15 @@
 
 1. Install [IEVR Mod Manager](https://gamebanana.com/tools/21354) and follow its instructions. Please make sure to have the game closed before installing any mod.
 
-2. Extract the [zip file](https://github.com/KazSoda/inazuma-eleven-vr-french-hissatsu/releases/tag/v.1.0.0) of this mod and place it into IEVR Mod Manager's mod folder.
+2. Extract the [zip file](https://github.com/KazSoda/inazuma-eleven-vr-french-hissatsu/releases/tag/v.1.0.0) of this mod and chose the mod version you wish to use.
+    - The 'inazuma-eleven-vr-french-hissatsu-ares' is an alternate version of this mod that uses the Ares font for hissatsu techniques that appears in both OG & Arès.
+    - The 'inazuma-eleven-vr-french-hissatsu' is the default version, which use the original font for hissatsu techniques.
 
-3. Open IEVR Mod Manager, make sure the mod is listed and enabled. Before hitting "Apply Changes", make sure that the version selected is "latest_cpk_list", or choose the cpk that matches your current game version.
+3. Place the folder of the mod version you chose inside IEVR Mod Manager's mod folder.
 
-4. Launch the game through IEVR Mod Manager. And enjoy!
+4. Open IEVR Mod Manager, make sure the mod is listed and enabled. Before hitting "Apply Changes", make sure that the version selected is "latest_cpk_list", or choose the cpk that matches your current game version.
+
+5. Launch the game through IEVR Mod Manager. And enjoy!
 
 ## Trivia
 
@@ -23,18 +27,54 @@ The following hissatsu have been implemented and are available in the latest ver
 
 |FR Name|JP Name|Status|
 |:--------|:--------|:--------:|
-|Instant Céleste|Heaven's Time|✅|
-|Météore Géant|Ryusei Blade|✅|
-|Feu Glacé|Cross Fire|✅|
-|Galatine|Galatyn|✅|
-|Tir de la Génèse|The Birth|⌛|
-|Frappe Stellaire|Tenkuu Otoshi|✅|
+|Attaque Ressort|Buttopi Jump|✅|
 |Big Bang|Big Bang|✅|
 |Bouclier du géant|Guardian Shield|✅|
-|Tacle Fantôme|Wonder Trap|✅|
+|Catapulte Frontale|Kyoubu Head|✅|
+|Déduction Imparable|Winning Logic|✅|
+|Eclipse Lunaire|Ouke No Tate|✅|
+|Feu Glacé|Cross Fire|✅|
+|Filet de chasse|Hunter's Net|✅|
+|Frappe Stellaire|Tenkuu Otoshi|✅|
+|Galatine|Galatyn|✅|
+|Griffe Puissante|Rising Slash|✅|
+|Instant Céleste|Heaven's Time|✅|
+|La déflagration|The Explosion|✅|
+|Main de Manchots|Penguin The Hand|✅|
+|Manchot empereur numéro 1|Koutei Penguin Ichigo|✅|
+|Manchot empereur numéro 2|Koutei Penguin Nigo|✅|
+|Manchot empereur numéro 2 (Arès Font)|Koutei Penguin Nigo (Arès Font)|✅|
+|Manchots Manichéens|Penguin The God & Devil|✅|
+|Météore Géant|Ryusei Blade|✅|
+|Météore Géant (Arès Font)|Ryusei Blade A (Arès Font)|✅|
+|Morsure Bestiale |High Beast Fang|✅|
+|Ordre de tir 01|Shoot Command 01|✅|
+|Ordre de tir 03|Shoot Command 03|✅|
+|Ordre de tir 06|Shoot Command 06|✅|
+|Ordre de tir 07|Shoot Command 07|✅|
+|Ordre de tir 08|Shoot Command 08|✅|
+|Ordre de tir 13|Shoot Command 13|✅|
+|Ordre de tir 24|Shoot Command 24|✅|
+|Ordre de tir K01|Shoot Command K01|✅|
+|Ordre de tir K02|Shoot Command K02|✅|
+|Ordre de tir K08|Shoot Command K08|✅|
 |Ours entravé|Kumagoroshi Baku|⌛|
 |Ours enragé|Kumagoroshi Zan|✅|
-|Eclipse Lunaire|Ouke No Tate|✅|
+|Parade Fatale|Wild Dunk|✅|
+|Parade Fatale du Dragon|Gekkirin Dunk|✅|
+|Portail Dimensionnel|Dimension Cut|✅|
+|Tacle Fantôme|Wonder Trap|✅|
+|Tir de Défense Canon|Kattobi Defense|✅|
+|Tir de la Génèse|The Birth|✅|
+|Torpille Terrestre|Claymore|✅|
+|Zigzag Supersonique|Zigzag Strike|✅|
+
+
+
+
+
+
+
 
 ## List of awakenings available:
 
