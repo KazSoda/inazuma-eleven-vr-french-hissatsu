@@ -29,6 +29,7 @@ The following hissatsu have been implemented and are available in the latest ver
 |:--------|:--------|:--------:|
 |Attaque Ressort|Buttopi Jump|✅|
 |Big Bang|Big Bang|✅|
+|Blizzard Eternel|Eternal Blizzard|✅|
 |Bouclier du géant|Guardian Shield|✅|
 |Catapulte Frontale|Kyoubu Head|✅|
 |Déduction Imparable|Winning Logic|✅|
@@ -40,6 +41,7 @@ The following hissatsu have been implemented and are available in the latest ver
 |Griffe Puissante|Rising Slash|✅|
 |Instant Céleste|Heaven's Time|✅|
 |La déflagration|The Explosion|✅|
+|Loup Légendaire|Wolf Legend|✅|
 |Main de Manchots|Penguin The Hand|✅|
 |Manchot empereur numéro 1|Koutei Penguin Ichigo|✅|
 |Manchot empereur numéro 2|Koutei Penguin Nigo|✅|
@@ -62,11 +64,13 @@ The following hissatsu have been implemented and are available in the latest ver
 |Ours enragé|Kumagoroshi Zan|✅|
 |Parade Fatale|Wild Dunk|✅|
 |Parade Fatale du Dragon|Gekkirin Dunk|✅|
+|Patinoire|Ice Ground|✅|
 |Portail Dimensionnel|Dimension Cut|✅|
 |Tacle Fantôme|Wonder Trap|✅|
 |Tir de Défense Canon|Kattobi Defense|✅|
 |Tir de la Génèse|The Birth|✅|
 |Torpille Terrestre|Claymore|✅|
+|Volée de manchots|Overhead Penguin|✅|
 |Zigzag Supersonique|Zigzag Strike|✅|
 
 
